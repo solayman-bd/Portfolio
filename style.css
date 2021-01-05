@@ -71,11 +71,58 @@ body{
     margin-right: 5%;
     
 }
-.latest-work{
+#latest-work{
     height: 600px;
     background-color: rgb(241, 238, 238);
 }
 
-.latest-work h1{
+#latest-work h1{
     font-size: 1.6rem;
+}
+
+#work-experience{
+    margin-top: 150px;
+    height: 350px;
+}
+#work-experience h1{
+    font-size: 2rem;
+    text-align: center;
+    color: blueviolet;
+}
+#work-inquiry{
+    margin:125px auto;
+    height : 180px;
+    width : 60%;  
+    background-image: url(shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: 100% 100%;
+}
+#work-inquiry h1 {
+    margin:75px 0 0 50px;
+    float:left;
+    font-size: 2rem;
+    color: white;
+}
+#work-inquiry a{
+    float:right; 
+    margin: 75px 30px 0 0;
+}
+footer{
+    margin:20px auto;
+    padding-bottom: 20px;
+    width: 30%;
+    text-align: center;
+}
+.one-third-footer{
+    width: 8%;
+   padding: 0px 5px;
+    display:inline-block; 
+}
+.one-third-footer img{
+    width: 100%;
+}
+
+h3{
+    font-size:1.5rem;
 }
