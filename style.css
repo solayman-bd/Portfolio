@@ -26,6 +26,9 @@ body{
     color: rgb(82, 70, 70);
     
 }
+.menu:hover{
+    text-decoration: underline;
+}
 .half-width{
     width: 40%;
     margin-left: 2%;
@@ -61,6 +64,9 @@ body{
     padding: 10px 25px;
     color: white;
     border-radius: 10px;
+}
+.link:hover{
+    text-decoration: underline;
 }
 .half-width img{
     width: 100%;
@@ -125,4 +131,7 @@ footer{
 
 h3{
     font-size:1.5rem;
+}
+.one-third-footer img:hover{
+    width: 80%;
 }
