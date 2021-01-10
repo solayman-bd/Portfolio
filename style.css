@@ -137,3 +137,7 @@ h3{
 .one-third-footer img:hover{
     width: 80%;
 }
+
+.creativity:hover{
+    box-shadow: 10px 20px 20px rgb(139, 173, 192);
+}
